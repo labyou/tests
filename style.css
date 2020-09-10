@@ -1,0 +1,30 @@
+body {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    outline: none;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 auto;
+    background-color: rgb(138, 14, 221);
+}
+h1 {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+    height: 120px;
+}
+div {
+    background-color: rgb(47, 199, 199);
+}
